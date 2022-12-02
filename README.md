@@ -2,7 +2,7 @@
 
 This is a movie recommendation project that will help you get started with the basics of Python. 
 
-The project has five milestone, and each milestone can be completed in the following notebooks:
+The project has five milestones, and each milestone can be completed in the following notebooks:
 
 Click this button to open the first milestone in Google Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanYingX/colab_test/blob/main/milestone_1.ipynb)
